@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hix:home|Door43 (hix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hix|d43-hix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hix/archive/master.zip|d43-hix.zip]]
+
+**Recent Changes**
+{{changes>ns = hix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hix|Ethnologue data]]
+
